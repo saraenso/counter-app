@@ -31,6 +31,7 @@ button {
     height: 100px;
     width: 500px;
     border: none;
+    cursor: pointer;
     border-radius: 20px;
 }
 
@@ -39,14 +40,26 @@ button {
     background: #5579C6;
 }
 
+.button-plus:hover {
+    background: #6495ED;
+}
+
 .button-minus {
     margin-bottom: 36px;
     background: #5579C6;
 }
 
+.button-minus:hover {
+    background: #6495ED;
+}
+
 .button-reset {
     margin-bottom: 100px;
     background: #8F1923;
+}
+
+.button-reset:hover {
+    background: #A52A2A;
 }
 
 .button-text {
