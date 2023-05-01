@@ -1,0 +1,58 @@
+body {
+    background-color: aliceblue;
+}
+
+.container {
+    margin: 0 auto;
+    margin-top: 100px;
+    width: 500px;
+}
+
+.counter-title {
+    display: inline-block;
+    width: 499px;
+    font-family: 'Manrope', sans-serif;
+    text-align: center;
+    margin-bottom: 36px;
+    font-size: 25px;
+}
+
+.counter {
+    display: inline-block;
+    width: 499px;
+    margin-bottom: 36px;
+    text-align: center;
+    font-size: 32px;
+    line-height: 44px;
+}
+
+button {
+    display: inline-block;
+    height: 100px;
+    width: 500px;
+    border: none;
+    border-radius: 20px;
+}
+
+.button-plus {
+    margin-bottom: 36px;
+    background: #5579C6;
+}
+
+.button-minus {
+    margin-bottom: 36px;
+    background: #5579C6;
+}
+
+.button-reset {
+    margin-bottom: 100px;
+    background: #8F1923;
+}
+
+.button-text {
+    font-family: 'Manrope', sans-serif;
+    font-size: 32px;
+    line-height: 32px;
+    color: #FFFFFF;
+}
+
